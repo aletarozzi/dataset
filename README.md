@@ -3,6 +3,8 @@ It is structured as (d, PL, category), where d [m] represents the 3D distance be
 Different datasets are provided for various machines densities (MD), with MD =0.08, 0.24, 0.36, defined as the ratio between the area covered by the machines and the total area of the facility. 
 The following dataset was generated through the simulation of an industrial environment at various frequencies, including 3.5, 60, and 300 GHz, utilising the 3DScat ray-tracing tool, developed at the University of Bologna. Specifically, the path loss at 300 GHz takes into consideration also additional attenuations due to molecular absorbtion.
 
+The transmitted power is Pt =0 dBm, the transmitter and receiver gains are Gt,Gr =0 dB.
+
 
 
 
